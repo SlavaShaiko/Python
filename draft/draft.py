@@ -18,8 +18,10 @@ if n == 0:
 else:
     print(n) """
 
-n = int(input())
+""" n = int(input())
 if (n % 10 == 0 or n % 15 == 0) and n % 30 != 0:
     print('кратно')
 else:
-    print('нет')
+    print('нет') """
+
+print('My', 'Python')
